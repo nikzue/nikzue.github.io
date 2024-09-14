@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nikzue.github.io/BSm/sitemap.BSm.gz
